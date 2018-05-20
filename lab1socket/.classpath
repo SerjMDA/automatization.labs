@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="blinov 13.1/src"/>
+	<classpathentry kind="src" path="blinov 13.2/src"/>
+	<classpathentry kind="src" path="blinov 13.3/src"/>
+	<classpathentry kind="src" path="blinov 13.4/src"/>
+	<classpathentry kind="src" path="blinov 13.8/src"/>
+	<classpathentry kind="output" path="blinov 13.1/bin"/>
+</classpath>

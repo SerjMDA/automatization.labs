@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<food>
+    <name>Домашний завтрак</name>
+    <price>7$</price>
+    <description>Пара яиц, бекон или колбаса, тост, и наши всегда популярные картофельные оладьи</description>
+    <calories>950</calories>
+</food>

@@ -1,0 +1,36 @@
+<list>
+  <Person Age="29">
+    <Initials>
+      <FirstName>Danny</FirstName>
+      <MiddleName>Boy</MiddleName>
+      <LastName>Worsnop</LastName>
+    </Initials>
+    <Language>Russian</Language>
+    <ContactInfo>
+      <Email>Dann1@gmail.com</Email>
+      <PhoneNumber>37360453542</PhoneNumber>
+    </ContactInfo>
+    <Phrases>
+      <string>Phrase1</string>
+      <string>Phrase2</string>
+      <string>Phrase3</string>
+    </Phrases>
+  </Person>
+  <Person Age="44">
+    <Initials>
+      <FirstName>Jonh</FirstName>
+      <MiddleName>Petrucio</MiddleName>
+      <LastName>Frankovski</LastName>
+    </Initials>
+    <Language>Romanian</Language>
+    <ContactInfo>
+      <Email>jonhpetrucio@gmail.com</Email>
+      <PhoneNumber>37369435627</PhoneNumber>
+    </ContactInfo>
+    <Phrases>
+      <string>Phrase4</string>
+      <string>Phrase5</string>
+      <string>Phrase6</string>
+    </Phrases>
+  </Person>
+</list>
