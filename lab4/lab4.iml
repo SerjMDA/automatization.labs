@@ -43,6 +43,14 @@
     <orderEntry type="library" name="Maven: org.apache.httpcomponents:httpcore:4.4.6" level="project" />
     <orderEntry type="library" name="Maven: com.squareup.okhttp3:okhttp:3.9.1" level="project" />
     <orderEntry type="library" name="Maven: com.squareup.okio:okio:1.13.0" level="project" />
-    <orderEntry type="library" name="testng-6.0" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/testng-6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
